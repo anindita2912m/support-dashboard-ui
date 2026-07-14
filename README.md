@@ -24,12 +24,19 @@ A modern React-based IT Support Dashboard UI featuring ticket management, analyt
 
 ## Installation
 
-```bash
+bash
 git clone https://github.com/anindita2912m/support-dashboard-ui.git
 cd support-dashboard-ui
 npm install
 npm run dev
-```
+
+## 🚀 Live Demo
+
+[View Live Dashboard](https://support-dashboard-ui-umber.vercel.app)
+
+## 💻 Source Code
+
+[GitHub Repository](https://github.com/anindita2912m/support-dashboard-ui)
 
 ## Note
 
