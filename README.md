@@ -1,16 +1,36 @@
-# React + Vite
+# Support Dashboard UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern React-based IT Support Dashboard UI featuring ticket management, analytics, search, filters, responsive design, and interactive admin components. Built using static mock data for demonstration purposes.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Dashboard Overview
+- Ticket Statistics Cards
+- Ticket Management Table
+- Search and Filter
+- Responsive Sidebar
+- Top Navigation Bar
+- Agent Management
+- Status Badges
+- Responsive Design
 
-## React Compiler
+## Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React
+- Vite
+- JavaScript
+- CSS3
+- React Icons
 
-## Expanding the ESLint configuration
+## Installation
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```bash
+git clone https://github.com/anindita2912m/support-dashboard-ui.git
+cd support-dashboard-ui
+npm install
+npm run dev
+```
+
+## Note
+
+This repository showcases the frontend implementation of an IT Support Ticket Management System using static/mock data for demonstration purposes.
