@@ -1,13 +1,15 @@
 import MainLayout from "../components/layout/MainLayout";
+import SettingsForm from "../components/settings/SettingsForm";
 
-function Settings() {
-  return (
-    <MainLayout>
+  function Settings() {
+    return (
+      <MainLayout>
+          <h1>Settings</h1>
+          <p>Manage your account and application preferences.</p>
 
-      <h1>Settings</h1>
+          <SettingsForm />
+      </MainLayout>
+    );
+  }
 
-    </MainLayout>
-  );
-}
-
-export default Settings;    
+export default Settings;

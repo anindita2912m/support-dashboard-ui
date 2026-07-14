@@ -1,30 +1,10 @@
 import "./HighPriorityTickets.css";
 
 const tickets = [
-  {
-    id: "TK104",
-    title: "Network Down",
-    employee: "Riya",
-    priority: "Critical",
-  },
-  {
-    id: "TK118",
-    title: "Database Connection Failed",
-    employee: "Rahul",
-    priority: "Critical",
-  },
-  {
-    id: "TK122",
-    title: "VPN Not Working",
-    employee: "Anjali",
-    priority: "High",
-  },
-  {
-    id: "TK131",
-    title: "Email Server Down",
-    employee: "Amit",
-    priority: "Critical",
-  },
+  { id: "TK101", title: "Printer not working", employee: "Aaritrika", priority: "High" },
+  { id: "TK102", title: "Wrong billing amount", employee: "Aayushi", priority: "Medium" },
+  { id: "TK103", title: "Dark mode resets", employee: "Aditya", priority: "Low"},
+  { id: "TK104", title: "Network Down", employee: "Riya", priority: "Critical" },
 ];
 
 function HighPriorityTickets() {

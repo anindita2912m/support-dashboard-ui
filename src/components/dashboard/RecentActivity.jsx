@@ -3,28 +3,28 @@ import "./RecentActivity.css";
 const activities = [
   {
     id: 1,
-    user: "Rahul",
-    action: "created Ticket TK105",
+    user: "Riya",
+    action: "created Ticket TK104",
     time: "10 mins ago",
     type: "create",
   },
   {
     id: 2,
-    user: "Anjali",
+    user: "Vritika",
     action: "resolved Ticket TK099",
     time: "25 mins ago",
     type: "resolved",
   },
   {
     id: 3,
-    user: "Amit",
+    user: "Megha",
     action: "assigned Ticket TK110",
     time: "1 hour ago",
     type: "assign",
   },
   {
     id: 4,
-    user: "Riya",
+    user: "Anindita",
     action: "updated Ticket TK120",
     time: "2 hours ago",
     type: "update",
